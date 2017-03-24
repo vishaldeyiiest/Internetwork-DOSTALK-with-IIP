@@ -1,4 +1,4 @@
-# INTERNETWORK DOSTALK with IIP
+# INTERNETWORK DOSTALK with IIP(IIEST internet protocol)
 
 ## HOW IT WORKS
 
