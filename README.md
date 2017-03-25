@@ -24,7 +24,7 @@
  For internetwork, it gets sent to router if it finds different net ID.
 
 1. For sending data, run dtalk.exe, then first type in the IIP of destination, and then enter data and press Enter.
-- e.g. to send data to IIP "1.2", type as 12msg.
+- e.g. to send data to IIP "1.2", type as 12<msg>.
 2. The client's MAC are hard-coded and now the codes are assigned as per the client ova's. The code can be changed as per
 - network configuration.
 
